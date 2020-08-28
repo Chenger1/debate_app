@@ -1,6 +1,7 @@
 venv/
 .idea/
 debate/debate/config.py
+debate/db.sqlite3
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
